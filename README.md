@@ -1,24 +1,7 @@
-# Bamazon
-Bamazon is a node.js application that simulates a user storefront, where users can "purchase" items, and track store inventory.
+# Amazon Homework
+Homework #10, create an Amazon store front.
 
-## Tools Used
-Node, MySQL, JavaSript, jQuery, and Inquirer
-
-## How it works
-User command line prompts are written using Inquirer, while MySQL queries update store inventory quantities when an item is bought. This application provided practice in writing MySQL queries, and creating a Node command line application.
-
-## Running Locally
-
-Required: [Node.js](http://nodejs.org/)
-
-Fork or download and then from project directory:
-
-```sh
-npm install
-npm start
-```
-
-## Screenshots demo
+## Screenshots
 
 When first starting the app in node, we are shown a table of all items available for purchase.
 ![Image of initial table](http://i.imgur.com/EAfCO0N.png)
