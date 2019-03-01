@@ -12,10 +12,10 @@ When starting the app.
 ![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%233.PNG)
 
 #4
-![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/4.PNG)
+![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%234.PNG)
 
 #5
-![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/5.PNG)
+![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%235.PNG)
 
 #6
-![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/6.PNG)
+![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%236.PNG)
