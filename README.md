@@ -4,12 +4,12 @@ Homework #10, create an Amazon store front.
 ## Screenshots
 
 When starting the app.
-![Image of initial table](https://imgur.com/a/s02WEyY)
+![Image of initial table](https://imgur.com/a/s02WEyY.png)
 
 #2
-![Image of purchase request](https://imgur.com/a/h9iRTO4)
+![Image of purchase request](https://imgur.com/a/h9iRTO4.png)
 #3
-![Image of purchase confirmation](https://imgur.com/a/ZacRrCV)
+![Image of purchase confirmation](https://imgur.com/a/ZacRrCV.png)
 
 #4
 ![Image of table post-purchase](http://i.imgur.com/aYBEFL8.png)
