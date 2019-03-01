@@ -7,7 +7,7 @@ When starting the app.
 ![Image of initial table](https://imgur.com/a/s02WEyY.png)
 
 #2
-![Image of purchase request](https://imgur.com/a/h9iRTO4.png)
+![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%231.PNG)
 #3
 ![Image of purchase confirmation](https://imgur.com/a/ZacRrCV.png)
 
