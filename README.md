@@ -6,16 +6,17 @@ Homework #10, create an Amazon store front.
 When starting the app.
 ![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%231.PNG)
 
-#2
+Entering the ID of an item, also how much you want.
 ![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%231.PNG)
-#3
+
+Completing the purchase.
 ![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%233.PNG)
 
-#4
+Return to product menu.
 ![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%234.PNG)
 
-#5
+Trying to buy more than what's in stock.
 ![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%235.PNG)
 
-#6
+Error from not enough in stock.
 ![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%236.PNG)
