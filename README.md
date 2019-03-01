@@ -4,18 +4,18 @@ Homework #10, create an Amazon store front.
 ## Screenshots
 
 When starting the app.
-![Image of initial table](https://imgur.com/a/s02WEyY.png)
+![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%231.PNG)
 
 #2
 ![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%231.PNG)
 #3
-![Image of purchase confirmation](https://imgur.com/a/ZacRrCV.png)
+![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/%233.PNG)
 
 #4
-![Image of table post-purchase](http://i.imgur.com/aYBEFL8.png)
+![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/4.PNG)
 
 #5
-![Image of invalid request](http://i.imgur.com/K9P2Mje.png)
+![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/5.PNG)
 
 #6
-![Image of error](http://i.imgur.com/f650Zau.png)
+![alt text](https://github.com/kietosstarik/bamazon_cap/blob/master/6.PNG)
