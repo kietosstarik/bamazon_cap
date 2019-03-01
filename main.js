@@ -11,11 +11,9 @@ var connection = mysql.createConnection({
 	database: 'bamazon'
 });
 
-// Create connection to database
 connection.connect(function(err) {
 	if (err) throw err;
 	console.log ('Connected!', connection.threadId);
-	// Call function to display all current products
 	displayAll();
 	
 });
@@ -23,7 +21,6 @@ connection.connect(function(err) {
 function displayTable (res) {
 	var tableArray = [];
 	for (var i = 0; i < res.length; i++) {
-		// Push on object with product properties to tableArray for each result
 		tableArray.push({
 			'Product ID': res[i].item_id,
 			'Product Name': res[i].product_name,
@@ -58,9 +55,7 @@ function buyPrompt () {
 			var dbName = res[0].product_name;
 			var dbQuantity = res[0].stock_quantity;
 			var total = res[0].price * answer.quantity;
-			// Check if enough items in stock to complete sale
 			if (answer.quantity <= dbQuantity) {
-				// Update quantity of product in database
 				var newQuantity = dbQuantity - answer.quantity;
 				connection.query("UPDATE products SET ? WHERE ?", [{
 						stock_quantity: newQuantity
@@ -68,7 +63,6 @@ function buyPrompt () {
 						item_id: answer.item_id
 					}], function(err, res) {
 						if (err) throw err;
-						// Confirmation of complete sale
 						inquirer.prompt([{
 							name: 'return',
 							message: 'Purchase complete!\nItem: ' + dbName + '\nQuantity: ' + answer.quantity + '\nTotal: $' + total,
